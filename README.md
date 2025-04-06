@@ -1,6 +1,17 @@
 <p align="center">
   <img src="https://i.ibb.co/Zz4QFbj4/884e633a1139.jpg" alt="VJ-TXT-LEECH-BOT Logo">
 </p>
+"`/start` - Start the bot⚡\n\n"
+        "`/brijesh` - Download and upload files (sudo)🎬\n\n"
+        "`/restart` - Restart the bot🔮\n\n" 
+        "`/stop` - Stop ongoing process🛑\n\n"
+        "`/cookies` - Upload cookies file🍪\n\n"
+        "`/e2t` - Edit txt file📝\n\n"
+        "`/yt2txt` - Create txt of yt playlist (owner)🗃️\n\n"
+        "`/premium add` - Add user or group or channel (owner)🎊\n\n"
+        "`/premium emove` - Remove user or group or channel (owner)❌\n\n"
+        "`/userlist` - List of sudo user or group or channel📜\n\n"
+       
 <h1 align="center">
   VJ TXT LEECH BOT
 </h1>
